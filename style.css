@@ -1,0 +1,73 @@
+/* Estilos para a tag body */
+body {
+    padding-top: 100px;
+}
+
+/* Estilos para a barra de navegação */
+.navbar {
+    background-color: #007180;
+}
+
+/* Estilos para elementos com classes navbar-brand e navbar-nav .nav-link */
+.navbar-brand, .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+
+/* Estilos para elementos com a classe jumbotron */
+.jumbotron {
+    background: url(""); /* Adicione a URL da imagem de fundo entre aspas */
+    color: #36588a;
+    text-align: center;
+    padding: 2px;
+}
+
+/* Estilos para elementos com a classe section */
+.section {
+    padding: 0px 0;
+}
+
+/* Estilos para o rodapé */
+.footer {
+    background-color: #006680;
+    color: #895656;
+    text-align: center;
+    padding: 8px;
+}
+
+/* Estilos para a tag h1 */
+h1 {
+    color: black;
+}
+
+/* Estilos para a tag p */
+p {
+    color: black;
+    text-align: justify;
+}
+
+/* Estilos para o elemento com o ID "paragrafo" */
+#paragrafo {
+    text-align: center;
+}
+
+/* Estilos para o elemento com o ID "paragrafo1" */
+#paragrafo1 {
+    text-align: center;
+}
+
+/* Estilos para todas as imagens */
+img {
+    
+    width: 411px;
+}
+
+/* Estilos para o elemento com o ID "estilo_R" */
+#estilo_R {
+    width: 0px; /* Certifique-se de que os valores corretos sejam definidos aqui */
+    height: 4px; /* Certifique-se de que os valores corretos sejam definidos aqui */
+    width: 4px; /* Certifique-se de que os valores corretos sejam definidos aqui */
+    height: 40px; /* Certifique-se de que os valores corretos sejam definidos aqui */
+}
+@media (max-width: 768px) {
+    /* Estilos para telas menores, como smartphones */
+}
